@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thiago Machado</h1>
+<h1 align="center">Hi, I'm Thiago Machado</h1>
 
 - 🔭 I’m currently working on **Python projects**
 
