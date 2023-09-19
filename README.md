@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Thiago Machado</h1>
-<h3 align="center">Universidade Federal do ABC student with expertise in Sciences and Technology, skilled in Python, SQL, and advanced tech support, and certified as an AWS Cloud</h3>
 
 - 🔭 I’m currently working on **Python projects**
 
